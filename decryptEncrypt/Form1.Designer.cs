@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.tb_Encrypt_Before = new System.Windows.Forms.TextBox();
             this.tb_Encrypt_Key = new System.Windows.Forms.TextBox();
             this.tb_Encrypt_After = new System.Windows.Forms.TextBox();
@@ -266,6 +267,7 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
