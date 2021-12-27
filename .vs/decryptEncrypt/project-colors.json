@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "091ed7c9-08c8-409c-9820-0b69cf1d8f44": {
+      "ProjectGuid": "091ed7c9-08c8-409c-9820-0b69cf1d8f44",
+      "DisplayName": "decryptEncrypt",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

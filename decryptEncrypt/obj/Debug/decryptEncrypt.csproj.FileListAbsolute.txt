@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\decryptEncrypt\decryptEncrypt\bin\Debug\decryptEncrypt.exe.config
+C:\Users\admin\source\repos\decryptEncrypt\decryptEncrypt\bin\Debug\decryptEncrypt.exe
+C:\Users\admin\source\repos\decryptEncrypt\decryptEncrypt\bin\Debug\decryptEncrypt.pdb
+C:\Users\admin\source\repos\decryptEncrypt\decryptEncrypt\obj\Debug\decryptEncrypt.Form1.resources
+C:\Users\admin\source\repos\decryptEncrypt\decryptEncrypt\obj\Debug\decryptEncrypt.Properties.Resources.resources
+C:\Users\admin\source\repos\decryptEncrypt\decryptEncrypt\obj\Debug\decryptEncrypt.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\decryptEncrypt\decryptEncrypt\obj\Debug\decryptEncrypt.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\decryptEncrypt\decryptEncrypt\obj\Debug\decryptEncrypt.exe
+C:\Users\admin\source\repos\decryptEncrypt\decryptEncrypt\obj\Debug\decryptEncrypt.pdb
+C:\Users\admin\source\repos\DecryptEncrypt\decryptEncrypt\obj\Debug\decryptEncrypt.csproj.AssemblyReference.cache
