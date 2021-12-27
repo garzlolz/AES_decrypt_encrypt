@@ -8,3 +8,13 @@ C:\Users\admin\source\repos\decryptEncrypt\decryptEncrypt\obj\Debug\decryptEncry
 C:\Users\admin\source\repos\decryptEncrypt\decryptEncrypt\obj\Debug\decryptEncrypt.exe
 C:\Users\admin\source\repos\decryptEncrypt\decryptEncrypt\obj\Debug\decryptEncrypt.pdb
 C:\Users\admin\source\repos\DecryptEncrypt\decryptEncrypt\obj\Debug\decryptEncrypt.csproj.AssemblyReference.cache
+G:\我的雲端硬碟\My_Work_Repository\WinForm_decryptEncrypt\decryptEncrypt\bin\Debug\decryptEncrypt.exe.config
+G:\我的雲端硬碟\My_Work_Repository\WinForm_decryptEncrypt\decryptEncrypt\bin\Debug\decryptEncrypt.exe
+G:\我的雲端硬碟\My_Work_Repository\WinForm_decryptEncrypt\decryptEncrypt\bin\Debug\decryptEncrypt.pdb
+G:\我的雲端硬碟\My_Work_Repository\WinForm_decryptEncrypt\decryptEncrypt\obj\Debug\decryptEncrypt.csproj.AssemblyReference.cache
+G:\我的雲端硬碟\My_Work_Repository\WinForm_decryptEncrypt\decryptEncrypt\obj\Debug\decryptEncrypt.Form1.resources
+G:\我的雲端硬碟\My_Work_Repository\WinForm_decryptEncrypt\decryptEncrypt\obj\Debug\decryptEncrypt.Properties.Resources.resources
+G:\我的雲端硬碟\My_Work_Repository\WinForm_decryptEncrypt\decryptEncrypt\obj\Debug\decryptEncrypt.csproj.GenerateResource.cache
+G:\我的雲端硬碟\My_Work_Repository\WinForm_decryptEncrypt\decryptEncrypt\obj\Debug\decryptEncrypt.csproj.CoreCompileInputs.cache
+G:\我的雲端硬碟\My_Work_Repository\WinForm_decryptEncrypt\decryptEncrypt\obj\Debug\decryptEncrypt.exe
+G:\我的雲端硬碟\My_Work_Repository\WinForm_decryptEncrypt\decryptEncrypt\obj\Debug\decryptEncrypt.pdb
